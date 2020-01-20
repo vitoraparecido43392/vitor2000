@@ -1,0 +1,19 @@
+EXTM3U
+
+#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
+https://us11.koscar.live/SD_AE/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC
+https://us.kgolf.live/FHD_AMC/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png" group-title="Filme e Serie",AXN
+http://ge.server.kwhiskey.live/SD_AXN/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet
+https://fr.kquebec.live/SD_ANIMAL_PLANET/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Arte 1" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png" group-title="Variedade",Arte 1
+https://us.kgolf.live/HD_ARTE1/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="BIS" tvg-logo="https://i.ibb.co/B2DbLdN/bis.png" group-title="Entretenimento e Musica",BIS
+http://ge.server.kvictor.live/SD_BIS/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
